@@ -1,0 +1,148 @@
+/* Set the container to display as a grid */
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+img {
+  /*width: 800px;
+  height: 600px;*/
+  object-fit: contain;
+}
+/* Style each grid item */
+.picture {
+  padding: 160px;
+  background-image:url('https://www.azuremagazine.com/wp-content/uploads/2019/02/Architecture-Projects-that-Will-Shape-Torontos-Future-Azure-Hero-800x600.jpg');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+.picture {
+  padding: 160px;
+  background-image:url('');
+  color: whitesmoke;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text {
+  background-color: black;
+  color: whitesmoke;
+  padding: 160px;
+  text-align: center;
+}
+#titleText {     
+    background-color: black;
+    color: yellow;
+    padding: 40px;
+    text-align: left;
+}
