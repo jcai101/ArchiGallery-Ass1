@@ -4,6 +4,15 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
 }
+#logo {
+  height: 200px;
+  width: 280px;
+}
+
+#nav {
+  display: flex;
+  
+}
 
 #backgroundmain {
 width: 100%;
@@ -12,7 +21,7 @@ background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
 }
-.picture1 {
+#picture1 {
   padding: 160px;
   background-image:url('https://www.azuremagazine.com/wp-content/uploads/2019/02/Architecture-Projects-that-Will-Shape-Torontos-Future-Azure-Hero-800x600.jpg');
   color: whitesmoke;
@@ -22,7 +31,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture2 {
+#picture2 {
   padding: 160px;
   background-image:url('https://galeriemagazine.com/wp-content/uploads/2022/01/Adjaye-Assocites-Abu-Dhabi-1920x1200.jpg');
   color: whitesmoke;
@@ -32,7 +41,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture3 {
+#picture3 {
   padding: 160px;
   background-image:url('https://cdnassets.hw.net/53/9c/b7a8ca0946a9b40e5f9d6dc5fcf6/uredd-rest-area-haugen-zohar-arkitekter-2019-07.jpg');
   color: whitesmoke;
@@ -42,7 +51,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture4 {
+#picture4 {
   padding: 160px;
   background-image:url('http://cdn.cnn.com/cnnnext/dam/assets/220103124923-05-anticipated-architecture-2022.jpg');
   color: whitesmoke;
@@ -52,7 +61,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture5 {
+#picture5 {
   padding: 160px;
   background-image:url('https://i.insider.com/5d30e292a47b5a103347bdc4?width=1136&format=jpeg');
   color: whitesmoke;
@@ -62,7 +71,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture6 {
+#picture6 {
   padding: 160px;
   background-image:url('http://cdn.cnn.com/cnnnext/dam/assets/220831162631-08-downtown-circle-znera-space-dubai.jpg');
   color: whitesmoke;
@@ -72,7 +81,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture7 {
+#picture7 {
   padding: 160px;
   background-image:url('https://www.cityscape-intelligence.com/sites/cet.com/files/architecture-projects-2022-katara.jpg');
   color: whitesmoke;
@@ -82,7 +91,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture8 {
+#picture8 {
   padding: 160px;
   background-image:url('https://cdn.trendhunterstatic.com/phpthumbnails/20/20210/20210_1_800.jpeg');
   color: whitesmoke;
@@ -92,7 +101,7 @@ background-size: cover;
   border-radius: 15px;
   background-size: cover;
 }
-.picture9 {
+#picture9 {
   padding: 160px;
   background-image:url('');
   color: whitesmoke;
