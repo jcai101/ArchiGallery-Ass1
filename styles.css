@@ -9,9 +9,10 @@
   width: 280px;
 }
 
-#nav {
+#topBar {
   display: flex;
-  
+  width: 100fr;
+  height: 100px;
 }
 
 #backgroundmain {
