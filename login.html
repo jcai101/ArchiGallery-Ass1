@@ -1,11 +1,21 @@
+<!-- This is the Login/Password portal code -->
 <!DOCTYPE html>
 <html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>ArchiExhibit - Login Portal</title>
+  </head>
 
 <body>
-
-<h2>Log-in to ArchiGallery:</h2>
-
-<p>The <strong>input type="password"</strong> defines a password field:</p>
+  <!-- Universal Navigation Top Bar -->
+  <div class="navBar">
+    <img id="logo" type="file" src="archigallery-low-resolution-color-logo.jpeg" alt="ArchiGallery Logo"/>
+      <a href="login.html">Login</a>
+      <a href="about.html">About</a>                
+      <a href="main.html">Home</a>
+    </div>
+<h2>Log in to ArchiGallery:</h2>
 
 <form action="/action_page.php">
   <label for="username">Username:</label><br>
@@ -15,8 +25,6 @@
   
   <input type="submit" value="Submit">
 </form>
-
-<p>The characters in a password field are masked (shown as asterisks or circles).</p>
 
 </body>
 </html>
