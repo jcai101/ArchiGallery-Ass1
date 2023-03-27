@@ -37,7 +37,6 @@
   background-color: orange;
   color: black;
 }
-
 #backgroundMain {
 width: 100%;
 background-image:url('https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMGxhbmRzY2FwZXxlbnwwfHwwfHw%3D&w=1000&q=80');
@@ -53,7 +52,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture2 {
   padding: 160px;
@@ -63,7 +63,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture3 {
   padding: 160px;
@@ -73,7 +74,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture4 {
   padding: 160px;
@@ -83,7 +85,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture5 {
   padding: 160px;
@@ -93,7 +96,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture6 {
   padding: 160px;
@@ -103,7 +107,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture7 {
   padding: 160px;
@@ -113,7 +118,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture8 {
   padding: 160px;
@@ -123,7 +129,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 #picture9 {
   padding: 160px;
@@ -133,7 +140,8 @@ background-size: cover;
   border-color:white;
   border-style:groove;
   border-radius: 15px;
-  background-size: cover;
+  background-size:contain;
+  background-repeat: no-repeat;
 }
 
 .text {
