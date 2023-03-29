@@ -1,17 +1,19 @@
 * {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-
-
 /* Set the container to display as a grid */
 .container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 20px;
+  grid-gap: 15px;
+  width: 100vw;
 }
 #logo {
-  height: 160px;
-  width: 180px;
+  height: 20vh;
+  width: 15vw;
   position: absolute;
   left: 11px;
   top: 22px;
@@ -36,19 +38,21 @@
   border-style: groove;
   border-color: grey;
   left: 45px;
+  letter-spacing: 0.02em;
 }
-
 /* Change the color of links on hover */
 .navBar a:hover {
   background-color: orange;
   color: black;
 }
 #backgroundMain {
-width: 100%;
-background-image:url('https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMGxhbmRzY2FwZXxlbnwwfHwwfHw%3D&w=1000&q=80');
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
+  width: 100%;
+  background-image:url('https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMGxhbmRzY2FwZXxlbnwwfHwwfHw%3D&w=1000&q=80');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  width: 100vw;
+  height: 100vh;
 }
 #picture1 {
   padding: 160px;
@@ -153,12 +157,6 @@ background-size: cover;
 .text {
   background-color: black;
   color: whitesmoke;
-  padding: 100px;
+  padding: 50px;
   text-align: center;
-}
-#titleText {     
-    background-color: black;
-    color: yellow;
-    padding: 40px;
-    text-align: left;
 }
