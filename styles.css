@@ -35,7 +35,7 @@
   background-color: black;
   overflow: hidden;
   height: 30vh;
-  width: 100vw;
+  width: 100%;
 }
 #logo {
   height: 20vh;
@@ -63,7 +63,7 @@
 
 /* Main container styling */
 .container {
-  width: 100vw;
+  width: 100%;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
@@ -79,7 +79,6 @@
 .img {
   width: 100%;
   aspect-ratio: 4 / 3;
-  padding: 0rem;
   border-color: white;
   border-style: groove;
   border-radius: 15px;
