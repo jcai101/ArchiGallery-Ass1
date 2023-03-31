@@ -11,6 +11,7 @@
   color: whitesmoke;
   text-align: left;
 }
+
 #aboutPageText {
   color: whitesmoke;
   text-align: left;
@@ -20,10 +21,12 @@
 .loginStylingText {
   color: whitesmoke;
 }
+
 .loginBoxStyle {
   background-color: whitesmoke;
   color: black;
 }
+
 #submitButtonStyle {
   background-color: white;
   color: black;
@@ -37,6 +40,7 @@
   height: 30vh;
   width: 100%;
 }
+
 #logo {
   height: 20vh;
   width: 15vw;
@@ -44,6 +48,7 @@
   left: 11px;
   top: 22px;
 }
+
 .navBar a {
   float: right;
   color: #f2f2f2;
@@ -56,6 +61,7 @@
   left: 45px;
   letter-spacing: 0.02em;
 }
+
 .navBar a:hover {
   background-color: grey;
   color: black;
@@ -67,6 +73,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+
 #backgroundMain {
   background-image: url("https://images.unsplash.com/photo-1439792675105-701e6a4ab6f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8ZGFyayUyMGxhbmRzY2FwZXxlbnwwfHwwfHw%3D&w=1000&q=80");
   background-repeat: no-repeat;
@@ -84,54 +91,6 @@
   border-radius: 15px;
 }
 
-/* #picture4 {
-  background-image: url("http://cdn.cnn.com/cnnnext/dam/assets/220103124923-05-anticipated-architecture-2022.jpg");
-  border-color: white;
-  border-style: groove;
-  border-radius: 15px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-#picture5 {
-  background-image: url("https://i.insider.com/5d30e292a47b5a103347bdc4?width=1136&format=jpeg");
-  border-color: white;
-  border-style: groove;
-  border-radius: 15px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-#picture6 {
-  background-image: url("https://i.pinimg.com/originals/0f/df/e9/0fdfe9c8a8e55ca576b07f6b33d1b0b2.jpg");
-  border-color: white;
-  border-style: groove;
-  border-radius: 15px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-#picture7 {
-  background-image: url("https://www.cityscape-intelligence.com/sites/cet.com/files/architecture-projects-2022-katara.jpg");
-  border-color: white;
-  border-style: groove;
-  border-radius: 15px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-#picture8 {
-  background-image: url("https://cdn.trendhunterstatic.com/phpthumbnails/20/20210/20210_1_800.jpeg");
-  border-color: white;
-  border-style: groove;
-  border-radius: 15px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-#picture9 {
-  background-image: url("https://homeadore.com/wp-content/uploads/2022/05/024-mountain-house-ro.jpg");
-  border-color: white;
-  border-style: groove;
-  border-radius: 15px;
-  background-size: cover;
-  background-repeat: no-repeat;
-} */
 .text {
   background-color: black;
   color: whitesmoke;
